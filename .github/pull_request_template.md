@@ -1,11 +1,23 @@
-**Please delete this line before submitting**, _Pull request TITLE should look like this_: `[Resource] -> [Resource Section In Docs]`
 
-# Resource Name - Edit this line
+<!-- Use the title format: [Resource name] -> [Section name] -->
 
-Edit this line with Small Description about new added resource
+## Resource
 
-Link: www.linkToResource
+Resource name:
 
-#### Checklist:
+Section:
 
-- [ ] I have performed a self-review of submitted resource and its follows the guidelines of the project.
+Link: https://
+
+Is this your product? Yes / No
+
+## Description
+
+<!-- Briefly explain what the free resource provides. -->
+
+## Checklist
+
+- [ ] I am adding or correcting only one resource.
+- [ ] I confirm the exact linked resource is genuinely free to use indefinitely and is not only a trial, credit allowance, or recurring quota.
+- [ ] I searched the README by name and URL and did not find this resource already listed.
+- [ ] I did not modify the repository banner or Warp sponsor section.
